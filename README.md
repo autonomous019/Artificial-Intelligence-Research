@@ -18,10 +18,8 @@ This repository currently is comprised of the wiki, link is above. A collection 
 <li>AI and Robotics: Robot Operating System (ROS), Drones, Swarming and Hive Minds
 <li>AI and Cybersecurity</li>
 
-<h3>Battlespace of Mind: AI and Neuroweapons (rough drafts)</h3>
-
-<li>Military Intelligence and Neuroweapons: A Historical Background to Military Intelligence influence on Science</li>
-
+<h3>Battlespace of Mind: AI and Cybernetics in Information Warfare (rough drafts)</h3>
+this is a book the goes into AI, Cybernetics and Quantum Effects in the pursuit of Information Warfare, previously a part of this project. 
 
 <b> this section has moved to <a href="https://github.com/autonomous019/Battlespace-of-Mind">'Battle Space of Mind'</a> https://github.com/autonomous019/Battlespace-of-Mind
 
